@@ -1,0 +1,5 @@
+Jan 10 16:11:51:490 [139681125603136] dut: Device State: ON
+Feb 11 20:21:51:490 [139681125603136] dut: Device State: OFF
+Mar 08 12:11:51:490 [139681125603136] dut: Device State: ON
+Apr 11 16:05:51:490 [139681125603136] dut: Device State: ERR
+Dec 11 03:11:51:490 [139681125603136] dut: Device State: ON
